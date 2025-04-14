@@ -3,9 +3,9 @@
 
 ## 👨‍💻 About Me:
 
-Tengo 24 años, soy estudiante de la carrera de Ingenieria
-informática de la Universidad Blas Pascal. Me interesa todo lo que es el desarrollo web
-
+Hola, mi nombre es Fabrizio Dematias, tengo 25 años.
+Actualmente estoy estudiando la carrera de Ingenieria Informatica en la Universidad Blas Pascal.
+Me interesa todo lo que es el desarrollo web.
 
 
 ---
