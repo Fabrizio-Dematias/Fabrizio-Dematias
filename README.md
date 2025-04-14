@@ -1,14 +1,14 @@
 # 👋 Hola, soy Fabrizio
 
 
-### 👨‍💻 About Me:
+### 👨‍💻 ABOUT ME:
 
 
 
 ---
 
 
-### 🌐 Socials:
+### 🌐 SOCIALS:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabridematias)
 [![Email](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dematiasfabrizio@gmail.com)
@@ -18,7 +18,7 @@
 ---
 
 
-### 🧰 Tech Stack:
+### 🧰 TECH STACK:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GITHUB STATS:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrizio-dematias&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
