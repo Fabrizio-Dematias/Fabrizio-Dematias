@@ -22,3 +22,6 @@
 ---
 
 ### 📫 Contacto
+
+- 📸 [Instagram](https://instagram.com/fabridematias)
+- ✉️ [dematiasfabrizio@gmail.com](mailto:dematiasfabrizio@gmail.com)  
