@@ -1,14 +1,14 @@
 # 👋 Hola, soy Fabrizio
 
 
-### 👨‍💻 ABOUT ME:
+## 👨‍💻 About Me:
 
 
 
 ---
 
 
-### 🌐 SOCIALS:
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabridematias)
 [![Email](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dematiasfabrizio@gmail.com)
@@ -18,7 +18,7 @@
 ---
 
 
-### 🧰 TECH STACK:
+## 🧰 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,9 +31,12 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ---
 
-### 📊 GITHUB STATS:
+---
+
+## 📊 Github Stats:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrizio-dematias&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
