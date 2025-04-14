@@ -3,6 +3,9 @@
 
 ## 👨‍💻 About Me:
 
+Tengo 24 años, soy estudiante de la carrera de Ingenieria
+informática de la Universidad Blas Pascal. Me interesa todo lo que es el desarrollo web
+
 
 
 ---
