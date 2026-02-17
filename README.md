@@ -2,7 +2,7 @@
 
 # Fabrizio Dematias
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E9BF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ing.+Inform%C3%A1tica;Desarrollador+Web+Full+Stack;Siempre+aprendiendo+algo+nuevo;Abierto+a+oportunidades+laborales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E9BF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ing.+Inform%C3%A1tica;Desarrollador+Web;Siempre+aprendiendo+algo+nuevo;Abierto+a+oportunidades+laborales)](https://git.io/typing-svg)
 
 <br>
 
