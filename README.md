@@ -19,8 +19,6 @@
 
 Hola, soy Fabrizio 👋 Tengo 26 años y estudio Ingeniería Informática en la Universidad Blas Pascal. Me apasiona el desarrollo web y estoy en constante aprendizaje, construyendo proyectos propios que me permiten crecer como desarrollador.
 
-Me considero una persona responsable y autodidacta, con habilidades para resolver problemas y trabajar en equipo de manera eficaz. Actualmente estoy buscando mi primera oportunidad profesional en el mundo del desarrollo de software.
-
 ```yaml
 🎓  Ingeniería Informática — Universidad Blas Pascal (2022 - Actualidad)
 💼  Abierto a oportunidades laborales
